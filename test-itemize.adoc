@@ -1,0 +1,12 @@
+= Test Itemize
+
+The following list usually creates some warnings in IntelliJ.
+
+`feature/XXX`:: Feature Branches
+`bugfix/YYY`:: Bugfix Branches
+
+.How IntelliJ shows the text
+image::screenshot-1.png[]
+
+.How the problems look like
+image::screenshot-2.png[]
